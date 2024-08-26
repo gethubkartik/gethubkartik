@@ -1,12 +1,44 @@
-- 👋 Hi, I’m @gethubkartik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Here’s a refined version of your GitHub README.md content, with a similar structure and layout:
 
-<!---
-gethubkartik/gethubkartik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### Hi 👋, I'm Kartikeya Gupta
+A passionate software developer from India.
+
+
+---
+
+
+### 💫 About Me:
+🔭 I’m currently working on projects that enhance my software development skills.
+🌱 I’m improving my Data Structures & Algorithms (DSA) knowledge.
+📫 How to reach me: kartikeya@example.com
+⚡ Fun fact: I love solving complex problems with simple code.
+
+---
+
+### 🌐 See My Portfolio:
+[Visit My Portfolio](https://gethubkartik.github.io/My-Portfolio/)
+
+---
+
+### 💻 Tech Stack:
+- **Languages:** HTML, CSS, js, Java, MySQL,
+- **Frameworks & Libraries:** React 
+- **Tools & Platforms:** Git, GitHub, Vercel
+- **Databases:** MySQL 
+- **Other:** Data Structures & Algorithms (DSA) 
+
+---
+
+### 📊 GitHub Stats:
+![Kartikeya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+---
+
+### 🌐 Socials:
+[LinkedIn](https://linkedin.com)
+
+---
+
+ 
