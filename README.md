@@ -10,8 +10,11 @@ A passionate software developer from India.
 
 ### 💫 About Me:
 🔭 I’m currently working on projects that enhance my software development skills.
+
 🌱 I’m improving my Data Structures & Algorithms (DSA) knowledge.
-📫 How to reach me: kartikeya@example.com
+
+📫 How to reach me: kartikeyagupta0211@gmail.com
+
 ⚡ Fun fact: I love solving complex problems with simple code.
 
 ---
