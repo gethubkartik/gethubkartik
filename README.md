@@ -39,7 +39,7 @@ A passionate software developer from India.
 ---
 
 ### 🌐 Socials:
-[LinkedIn](https://linkedin.com)
+[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/kartikeya-gupta-19b5891a2/))
 
 ---
 
